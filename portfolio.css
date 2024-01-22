@@ -325,7 +325,7 @@ nav ul li a:hover::after {
     height: 500px;
     margin: 10px;
     border-radius: 50px;
-    background: url(images/dubai-city.webp);
+    background: url(dubai-city.webp);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -333,31 +333,31 @@ nav ul li a:hover::after {
 }
 
 .img-box:nth-child(2){
-    background: url(images/india-taj-mahal.avif);
+    background: url(india-taj-mahal.avif);
     background-size: cover;
     background-position: center;
 }
 
 .img-box:nth-child(3) {
-    background: url(images/italy.jpg);
+    background: url(italy.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .img-box:nth-child(4) {
-    background: url(images/nyc.jpg);
+    background: url(nyc.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .img-box:nth-child(5) {
-    background: url(images/Los-Angeles.webp);
+    background: url(Los-Angeles.webp);
     background-size: cover;
     background-position: center;
 }
 
 .img-box:nth-child(6) {
-    background: url(images/singapore-city.avif);
+    background: url(singapore-city.avif);
     background-size: cover;
     background-position: center;
 }
